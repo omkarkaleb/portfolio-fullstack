@@ -46,7 +46,7 @@ export function ProjectCard({ project }: Props) {
             {tags.toSorted().map((tag) => (
               <Badge
                 key={tag}
-                className="px-1 py-0 text-[10px]"
+                className="px-2 py-1 text-[10px]"
                 variant="secondary"
               >
                 {tag}

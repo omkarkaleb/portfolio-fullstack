@@ -13,6 +13,7 @@ export default function Experience() {
       <TabsList className="mb-2 grid w-full grid-cols-2">
         <TabsTrigger value="work">Work</TabsTrigger>
         <TabsTrigger value="education">Education</TabsTrigger>
+        {/* <TabsTrigger value="projects">Projects</TabsTrigger> */}
       </TabsList>
       <TabsContent value="work">
         <Timeline experience={career}></Timeline>

@@ -1,37 +1,68 @@
 {
   "education": [
     {
-      "name": "Digipen Institute of Technology Singapore",
-      "href": "https://www.digipen.edu.sg",
-      "title": "BS in Computer Science in Real-Time Interactive Simulation",
-      "logo": "/digipen.png",
-      "start": "Sep 2019",
-      "end": "Apr 2023",
+      "name": "University at Buffalo",
+      "href": "https://www.buffalo.edu/",
+      "title": "Masters in Computer Science and Engineering",
+      "logo": "/ub.png",
+      "start": "Aug 2024",
+      "end": "Dec 2025",
       "description": [
-        "Graduated with a Minor in Mathematics",
-        "President of Digipen Student Management Committee for freshman year",
-        "3-time recipient of the Dean's Honor List"
+        "Analysis of Algorithms, Time and Space Complexity, Parallel algorithms",
+        "Advanced Data Structures, NP-completeness",
+        "Dynamic Programming, Greedy Algorithm, Graph Algorithms",
+        "Modern Networking Concepts, Operating Systems, CompSec",
+        "Machine Learning, Reinforcement learning, Computational Linguistics"
       ],
       "links": [
         {
-          "name": "Final Year Project",
+          "name": "Bird flock simulation",
           "href": "https://games.digipen.edu/games/rapid-ride-fight",
           "icon": "globe"
         },
         {
-          "name": "2nd Year Project",
+          "name": "Virtual Clothes Try-on",
+          "href": "https://chromewebstore.google.com/detail/virtual-clothes-try-on/hpogkihhfoglihcgmhfhhngefkjgehjf",
+          "icon": "chrome"
+        },
+        {
+          "name": "Yelp reviews sentiment analysis using NLP",
           "href": "https://games.digipen.edu/games/glowing-under",
           "icon": "globe"
         }
       ]
     },
     {
-      "name": "Singapore Polytechnic",
-      "href": "https://www.sp.edu.sg",
-      "title": "Diploma in Games Design and Development",
-      "logo": "/sp.png",
-      "start": "Apr 2014",
-      "end": "May 2017"
+      "name": "University of Mumbai",
+      "href": "https://mu.ac.in/",
+      "title": "Bachelor of Engineering, BE in Information Technology",
+      "logo": "/mumbaiuni.png",
+      "start": "July 2017",
+      "end": "Aug 2021",
+      "description": [
+        "DSA, Database Systems, Computer Organization and Architecture",
+        "Computer Networks, Operating Systems, Cryptography & Network Security",
+        "Software Engineering, Project Management"
+      ],
+      "links": [
+        {
+          "name": "Australia tourism website",
+          "href": "https://github.com/omkarkaleb/Australia-Tourism-HTML-CSS-JS",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "Pace Junior Science College",
+      "href": "https://iitianspace.com/",
+      "title": "Higher Secondary Certificate",
+      "logo": "/pace.png",
+      "start": "Aug 2015",
+      "end": "May 2017",
+      "description": [
+        "Calculus, Vectors and 3D Geometry, Modern Physics, Mechanics",
+        "Physical Chemistry, Organic Chemistry, Inorganic Chemistry"
+      ]
     }
   ]
 }

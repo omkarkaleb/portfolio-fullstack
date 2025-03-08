@@ -1,56 +1,72 @@
 {
   "career": [
     {
-      "name": "DBS Bank",
-      "href": "https://www.dbs.com.sg",
-      "title": "Graduate Associate (SEED Programme)",
-      "logo": "/dbs.png",
-      "start": "Jul 2023",
+      "name": "Neosoft Pvt Ltd",
+      "href": "https://www.neosofttech.com/",
+      "title": "Software Engineer",
+      "logo": "/neosoft.jpg",
+      "start": "Oct 2021",
+      "end": "Jan 2024",
       "description": [
-        "Developed the Java backend for a bank account servicing process with multiple channel integrations using Activiti workflow",
-        "Built a custom database migration tool using Python and MariaDB and facilitated the migration of 1000+ processes from a vendor platform"
-      ]
-    },
-    {
-      "name": "Singapore Institute of Technology",
-      "href": "https://www.singaporetech.edu.sg",
-      "title": "Software Developer (Contract)",
-      "logo": "/sit.png",
-      "start": "Apr 2023",
-      "end": "Jun 2023",
-      "description": [
-        "Built NFTVue, a NFT gallery website that allows students to connect their crypto wallets to view and verify their school event-issued NFTs",
-        "Worked on DemoConstruct, a full-stack web application (React + Python) that uses Meshroom to reconstruct 3D models from captured images"
+        "Developed, tested, and deployed web applications (using React and Node.js) and iOS apps (using Swift and UIKit) for clients in the Health, TV and Automobile sectors",
+        "I also got hands-on experience with cloud, containerization, databases, version control and working with design patterns like MVC, MVVM, MVP",
+        "Daily tasks included debugging, feature implementation, troubleshooting, understanding API changes, managing priority tasks and deadlines"
       ],
       "links": [
         {
-          "name": "NFTVue",
-          "href": "https://nftvue.vercel.app",
+          "name": "Republic World Digital",
+          "href": "https://apps.apple.com/in/app/republic-world-digital/id1326556994",
+          "icon": "link"
+        },
+        {
+          "name": "Gamingdeputy",
+          "href": "https://www.gamingdeputy.com/",
           "icon": "globe"
+        },
+        {
+          "name": "Scanbo",
+          "href": "https://apps.apple.com/us/app/scanbo-health/id1462060384",
+          "icon": "link"
+        },
+        {
+          "name": "MeConnect and MeConnect ECC",
+          "href": "http://localhost:3000/",
+          "icon": "link"
         }
       ]
     },
     {
-      "name": "DBS Bank",
-      "href": "https://www.dbs.com.sg",
-      "title": "Software Developer (Intern)",
-      "logo": "/dbs.png",
-      "start": "May 2022",
-      "end": "Dec 2022",
+      "name": "Neosoft Pvt Ltd",
+      "href": "https://www.neosofttech.com/",
+      "title": "Trainee Software Engineer",
+      "logo": "/neosoft.jpg",
+      "start": "Jul 2021",
+      "end": "Oct 2021",
       "description": [
-        "Worked on the backend for the digital exchange and asset custody application using Spring Boot and Java",
-        "Built an admin dashboard web application for a DBS Metaverse event using Spring Security and Angular"
+        "Developed POCs while working under senior engineers and helping them deliver the product at speed"
       ]
     },
     {
-      "name": "Activate Interactive Pte Ltd",
-      "href": "https://www.activate.sg",
-      "title": "Software Developer (Intern)",
-      "logo": "/activate.png",
-      "start": "May 2019",
-      "end": "Aug 2019",
+      "name": "Shah And Anchor Kutchhi Engineering College",
+      "href": "https://www.neosofttech.com/",
+      "title": "Winter Intern (Software Engineering)",
+      "logo": "/sakec.jpg",
+      "start": "Aug 2019",
+      "end": "Jan 2020",
       "description": [
-        "Developed RP Connect, the iOS and Android mobile app for Republic Polytechnic using React Native"
+        "Created a fullstack web application (using Django and PostgreSQL) that helped professors and their students with academic communication regarding attendance, assignments, projects, grading, etc",
+        "Implemented a dashboard to visualize student's progress using graphs and charts"
+      ]
+    },
+    {
+      "name": "Caanhub",
+      "href": "https://www.linkedin.com/company/caanhub1/",
+      "title": "Intern",
+      "logo": "/caanhub.jpeg",
+      "start": "Feb 2019",
+      "end": "April 2019",
+      "description": [
+        "Worked for a startup which was basically a Linkedin for sports. Performed marketing activities and technical SEO"
       ]
     }
   ]
